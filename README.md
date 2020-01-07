@@ -2,9 +2,11 @@
   <img src="https://i.imgur.com/BCktmzl.png" alt="Registto elettronico"><br>
 </h1>
 
+**Repository is now private**
+
 <a href="https://riccardocalligaro.github.io/registroelettronico-website/">
-<h1><b>Website</b></h1>
-<a>
+<h1><b>Website</b></h1></a>
+
 
 [![HitCount](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico.svg)](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico)
 
