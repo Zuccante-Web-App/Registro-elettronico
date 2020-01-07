@@ -4,8 +4,7 @@
 
 **Repository is now private**
 
-<a href="https://riccardocalligaro.github.io/registroelettronico-website/">
-<h1><b>Website</b></h1></a>
+<a href="https://riccardocalligaro.github.io/registroelettronico-website/"><h1>Website</h1></a>
 
 
 [![HitCount](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico.svg)](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico)
