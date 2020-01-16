@@ -102,8 +102,8 @@ These group members haven't developed the app but are learning flutter.
 | Agenda             |  ✔️   |  R. C.  | F. V.+ R. C. |
 | Grades             |  ✔️   |  R. C.  | F. V.+ R. C. |
 | Noticeboard        |  ✔️   |  R. C.  |    R. C.     |
-| Absences           |  ✔️   |  R. C.  |R. C.(fa schifo il grafico di fatti)|
-| School material    |  ✔️   |  R. C.  |    R. C.     |
+| Absences           |  ✔️   |  R. C.  |    R. C.     |
+| School material    |  ✔️   |  R. C.  | F. V.+ R. C. |
 | Notes              |  ✔️   |  R. C.  |    R. C.     |
 | Intitial slideshow |  ✔️   |  R. C.  |    R. C.     |
 | Dark theme         |  ✔️   |  R. C.  |    R. C.     |
