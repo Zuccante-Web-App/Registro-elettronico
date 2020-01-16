@@ -115,7 +115,7 @@ Additional features that will be implemented
 | ----------------------- | :---: | :-----: | :-------: |
 | Local grades and agenda |   ½   |    -    |     -     |
 | Timetable               |  ✔️   |  R. C.  |     -     |
-| Notifications           |   ½   |  R. C.  |     -     |
+| Notifications           |  ✔️   |  R. C.  |     -     |
 | Summary page            |  ❌   |    -    |     -     |
 
 ## Project structure
