@@ -9,8 +9,6 @@
 
 [![HitCount](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico.svg)](http://hits.dwyl.io/Zuccante-Web-App/Registro-elettronico)
 
-[![style: effective dart][https://img.shields.io/badge/style-effective_dart-40c4ff.svg]](https://github.com/tenhobi/effective_dart)
-
 
 <a href="https://www.mediafire.com/file/xrwlwz3dky9nf51/app-release.apk/file">Download Preview APK</a>
 
