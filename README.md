@@ -51,6 +51,8 @@ Main technologies and libraries that I will use:
 - 💉 Injector for dependency injection
 - 🐠 Equatable for object comparison
 - 🔗 Dartz for functional programming (only last features)
+- ⚙️ Firebase + Crashlytics for analytics and tracking errors
+
 
 
 Other libraries:
@@ -135,12 +137,16 @@ Tecnologie principali e librerie usate:
 - 📚 Moor per persistenza dati
 - 💉 Injector per dependency injection
 - 🐠 Equatable per comparazione oggetti
+- 🔗 Dartz per programmazione funzionale (solo ultime funzioni)
+- ⚙️ Firebase + Crashlytics per analisi dati e fixare errori
 
 Altre librerie:
 
 - [Fl_Chart](https://pub.dev/packages/fl_chart)
 - [Table calendar](https://pub.dev/packages/table_calendar)
 - [Work manager for notifications](https://pub.dev/packages/workmanager)
+- [FLogs for advanced logging](https://github.com/zubairehman/Flogs)
+
 
 
 ---
@@ -686,12 +692,37 @@ This endpoint provides user's notes.
 
 ```json
 {
-  "NTTE": [],
-  "NTCL": [],
-  "NTWN": [],
-  "NTST": []
+    "NTTE": [],
+    "NTCL": [
+        {
+            "evtId": 8331568,
+            "evtText": "prova per app \"Registro di classe\"",
+            "evtDate": "2020-01-07",
+            "authorName": "CAZZIOLATO ALESSANDRO",
+            "readStatus": true
+        }
+    ],
+    "NTWN": [],
+    "NTST": []
 }
 ```
+
+To read the content 
+
+`POST v1/students/{studentId}/notes/{type}/read/{note}`
+
+so for example for this note we do
+
+```json
+{
+    "event": {
+        "evtCode": "NTCL",
+        "evtId": 8331568,
+        "evtText": "prova per app \"Registro di classe\""
+    }
+}
+```
+
 
 ---
 
