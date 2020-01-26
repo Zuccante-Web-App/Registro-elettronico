@@ -2,6 +2,8 @@
   <img src="https://i.imgur.com/BCktmzl.png" alt="Registto elettronico"><br>
 </h1>
 
+![Build status](https://app.bitrise.io/app/b03bbc28cc46d86b.svg?token=NRu_5FYfbfWzcbZRODH6RQ)
+
 **Repository is now private, I will change it to public when I'll finish to publish the app on the Play Store**
 
 [Renders](#renders)
@@ -14,7 +16,7 @@
 
 
 
-<a href="https://www.mediafire.com/file/xrwlwz3dky9nf51/app-release.apk/file">Download Preview APK</a>
+<a href="https://t.me/registroelettronicobuilds">Download Preview APK</a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
